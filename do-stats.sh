@@ -1,3 +1,4 @@
+#HACKED OMG HACKED HAHAHAHA
 # Calculated reduced stats for data files
 for datafile in "$@"
 do
